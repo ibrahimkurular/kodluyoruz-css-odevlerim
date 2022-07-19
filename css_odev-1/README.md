@@ -1,2 +1,3 @@
 # kodluyoruz-css-odevlerim
-CSS ÖDEVLERİ
+Kodluyoruz - CSS Ödev 1--> (Başlangıç Seviye Frontend Web Development Patikası)
+
