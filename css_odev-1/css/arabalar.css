@@ -1,0 +1,58 @@
+body{
+       background-color: aliceblue;
+    }
+
+h1{
+       color:darkblue ;
+       text-align: center;
+       text-indent: 50px;
+  }
+
+h2{
+       text-align: center;
+       text-indent: 50px;
+       color:darkblue ;
+}
+
+ul{
+      text-align:center;
+      text-indent: 10px;
+      text-transform: uppercase;
+  }
+     
+ ul li{
+     display:inline-block;
+    *display:inline; /*IE7*/
+    *zoom:1; /*IE7*/
+    }
+       /* Menüler */
+      .btn {
+        padding: 10px 20px;
+        border-radius: 25px;
+        color: white;
+        text-decoration: none;
+        box-shadow: 2px 2px 15px 7px rgb(0 0 0 / 30%);
+    }
+    .gradient {
+        background: linear-gradient( 90deg, rgba(45, 156, 219, 0.6), rgba(86, 88, 184, 0.6) );
+    }
+
+    /* Divlerle Arabaları listele */
+    .column {
+      float: left;
+      width: 25%;
+    }
+    
+    /* Clear floats after the columns */
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    /* Responsive layout - when the screen is less than 600px wide, make the three columns stack on top of each other instead of next to each other */
+    @media screen and (max-width: 600px) {
+      .column {
+        width: 100%;
+      }
+    }
+  
