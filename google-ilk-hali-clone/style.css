@@ -1,0 +1,38 @@
+.logo
+{
+    display: block; 
+    margin: auto;
+}
+
+.baslik 
+{
+   text-align: center;
+   background-color: #EEEEEE;
+}
+#text{
+    display: block; 
+    margin: auto;
+    width: 350px;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    text-align: center;
+    height: 50%;
+    font-size: 14px;
+    margin-top: 2px;
+    margin-right: 2px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  /* Responsive layout - when the screen is less than 600px wide, make the three columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+  }
