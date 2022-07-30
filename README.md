@@ -1,3 +1,3 @@
 # kodluyoruz-css-odevlerim
-CSS ÖDEVLERİ
-Boostrap ödevleri
+##CSS ÖDEVLERİ
+##Boostrap ödevleri
