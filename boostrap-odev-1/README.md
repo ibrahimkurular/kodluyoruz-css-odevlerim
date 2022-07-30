@@ -1,6 +1,4 @@
-# kodluyoruz-boostrap-odevlerim
-##CSS ÖDEVLERİ
-
+# kodluyoruz-Boostrap-odevlerim
 ##Boostrap ödevleri
 
 www.patika.dev
