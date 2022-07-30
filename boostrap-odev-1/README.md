@@ -1,4 +1,4 @@
-# kodluyoruz-css-odevlerim
+# kodluyoruz-boostrap-odevlerim
 ##CSS ÖDEVLERİ
 
 ##Boostrap ödevleri
